@@ -1,0 +1,55 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Turbo C++ DOS",
+  "author": "Anonymous Retro Enthusiast",
+  "themes": [
+    {
+      "name": "Turbo C++ DOS",
+      "appearance": "dark",
+      "style": {
+        "background": "#0000aa",
+        "foreground": "#ffff55",
+        "border": "#00ffff",
+        "conflict": "#ff5555",
+        "created": "#55ff55",
+        "deleted": "#ff5555",
+        "error": "#ff5555",
+        "hidden": "#555555",
+        "hint": "#55ffff",
+        "ignored": "#555555",
+        "modified": "#ffff55",
+        "renamed": "#ffff55",
+        "success": "#55ff55",
+        "warning": "#ffff55",
+        "text": "#ffff55",
+        "text.muted": "#00aaaa",
+        "text.placeholder": "#005555",
+        "text.disabled": "#555555",
+        "text.accent": "#00ffff",
+        "icon": "#ffff55",
+        "icon.muted": "#00aaaa",
+        "icon.disabled": "#555555",
+        "icon.accent": "#00ffff",
+        "status_bar.background": "#00aaaa",
+        "title_bar.background": "#0000aa",
+        "toolbar.background": "#0000aa",
+        "tab_bar.background": "#0000aa",
+        "tab.active.background": "#0000aa",
+        "tab.active.foreground": "#ffffff",
+        "tab.inactive.background": "#000055",
+        "tab.inactive.foreground": "#00aaaa",
+        "terminal.background": "#0000aa",
+        "terminal.foreground": "#ffff55",
+        "syntax": {
+          "comment": { "color": "#00aaaa" },
+          "keyword": { "color": "#ffffff", "font_weight": 700 },
+          "string": { "color": "#ff55ff" },
+          "function": { "color": "#00ffff" },
+          "variable": { "color": "#ffff55" },
+          "type": { "color": "#55ffff" },
+          "number": { "color": "#ff55ff" }
+        }
+      }
+    }
+  ]
+}
