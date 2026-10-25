@@ -3,5 +3,5 @@ name = "Turbo C++ DOS Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["yealux"]
-description = "A retina-scorching 1990s DOS color scheme for Zed."
+description = "A 1990s DOS color scheme for Zed."
 repository = "https://github.com/yealux/zed-turbo-dos-theme"
